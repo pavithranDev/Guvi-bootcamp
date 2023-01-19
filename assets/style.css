@@ -1,0 +1,22 @@
+html {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+}
+.continer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin: 2%;
+  padding: 10%;
+  width: max-content;
+}
