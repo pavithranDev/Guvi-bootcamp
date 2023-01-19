@@ -1,0 +1,12 @@
+body {
+  background-color: rgba(152, 251, 152, 0.7);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.continer {
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  width: 80%;
+  height: 80%;
+}
