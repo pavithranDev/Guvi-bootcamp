@@ -1,0 +1,19 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-seri;
+  padding: 0px;
+  margin: 0px;
+  background-color: antiquewhite;
+}
+.continer {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+.item {
+  width: 50%;
+}
+img {
+  width: 20%;
+  height: 20%;
+}
