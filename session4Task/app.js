@@ -19,14 +19,7 @@ function parsing() {
   console.log(result);
   for (let index = 0; index < result.length; index++) {
     console.log(
-      result[index].flags.png,
-      result[index].name +
-        "-" +
-        result[index].region +
-        "-" +
-        result[index].subregion +
-        "-" +
-        result[index].population
+      `${result[index].flags.png} ${result[index].name} ${result[index].region} ${result[index].subregion} ${result[index].population}`
     );
   }
 }
