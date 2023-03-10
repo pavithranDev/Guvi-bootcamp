@@ -1,4 +1,3 @@
-# Guvi Bootcamp
-This repo is all bout my Guvi Learning process
+[CLICK ME🔗 for webpage](https://pavithrandev.github.io/Guvi-bootcamp/)
+***
 
-https://pavithrandev.github.io/Guvi/
